@@ -59,4 +59,5 @@ elsAccordionItemToggler.forEach(function (elAccordionItemToggler) {
 
     elAccordionItemToggler.closest('.accordion__item').classList.add(modifiers.accordionItemOpen);
   });
+
 });
